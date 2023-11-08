@@ -1,0 +1,38 @@
+body {
+    font-family: Georgia, 'Times New Roman', ;
+    text-align: center;
+    background-color: #98e0a3;
+    background-image: url('https://www.somosiberoamerica.org/wp-content/uploads/2022/05/TRIB-4-Matematicas-desarrollo.png');
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    }
+  
+    
+    h1 {
+      color: #323030;
+    }
+    
+    input, button {
+      padding: 10px;
+      margin: 5px;
+    }
+    
+    button {
+      background-color: #007BFF;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    
+    button:hover {
+      background-color: #00d471;
+    }
+    
+    p {
+      font-weight: bold;
+    }
+    
+    #resultado {
+      color: #47c621;
+    }
+    
